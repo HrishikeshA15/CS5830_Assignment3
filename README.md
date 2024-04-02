@@ -50,3 +50,5 @@ The Analytic Pipeline performs data analytics and visualization on the fetched d
 - Start Date: 2024-01-01
 - Retries: 1
 - Schedule Interval: Every 1 minute
+
+The code for the project can be found in the dags folder named "AE20B029_Assignment_2.py". The plots for some of the example runs are given in the results plot.
