@@ -1,0 +1,7 @@
+# Astro Runtime includes the following pre-installed providers packages: https://docs.astronomer.io/astro/runtime-image-architecture#provider-packages
+beautifulsoup4==4.12.3
+apache-beam==2.54.0
+geopandas==0.14.3
+geodatasets==2023.12.0
+matplotlib==3.8.3
+
